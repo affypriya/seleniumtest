@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" parallel="tests" name="Failed suite [Macys Suite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="selenium.ui.framework.listeners.TestListener"/>
+    <listener class-name="selenium.ui.framework.utils.TestListSort"/>
+  </listeners>
+  <test thread-count="1" parallel="tests" name="MacysTest(failed)">
+    <classes>
+      <class name="sample.tests.kickoff.macys.MacysMainTest">
+        <methods>
+          <include name="runMainTest"/>
+          <include name="setup"/>
+          <include name="setResultTestName"/>
+          <include name="setTestName"/>
+        </methods>
+      </class> <!-- sample.tests.kickoff.macys.MacysMainTest -->
+    </classes>
+  </test> <!-- MacysTest(failed) -->
+</suite> <!-- Failed suite [Macys Suite] -->

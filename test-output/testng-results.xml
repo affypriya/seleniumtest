@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="7" failed="1" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Exception: null]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2020-06-21T22:59:32Z" name="Ae Suite" finished-at="2020-06-21T23:01:58Z" duration-ms="145281">
+    <groups>
+    </groups>
+    <test started-at="2020-06-21T22:59:32Z" name="AeTest" finished-at="2020-06-21T23:01:58Z" duration-ms="145281">
+      <class name="sample.tests.kickoff.ae.AEMainTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:sample.tests.kickoff.ae.AEMainTest@23202fce]" started-at="2020-06-21T22:59:32Z" name="setup" test-instance-name="Sheet Name:AELandingPageTestCase_TestCase Name:validate main page Title" finished-at="2020-06-21T22:59:32Z" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:sample.tests.kickoff.ae.AEMainTest@23202fce]" started-at="2020-06-21T22:59:32Z" name="setup" test-instance-name="Sheet Name:AELandingPageTestCase_TestCase Name:validate main page Links AE logo" finished-at="2020-06-21T22:59:32Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="setTestName(org.testng.ITestResult)[pri:0, instance:sample.tests.kickoff.ae.AEMainTest@23202fce]" started-at="2020-06-21T22:59:32Z" name="setTestName" test-instance-name="Sheet Name:AELandingPageTestCase_TestCase Name:validate main page Title" finished-at="2020-06-21T22:59:32Z" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Sheet Name:AELandingPageTestCase_TestCase Name:validate main page Title status=SUCCESS method=AEMainTest.runMainTest()[pri:0, instance:sample.tests.kickoff.ae.AEMainTest@72ade7e3] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setTestName -->
+        <test-method is-config="true" signature="setTestName(org.testng.ITestResult)[pri:0, instance:sample.tests.kickoff.ae.AEMainTest@23202fce]" started-at="2020-06-21T22:59:32Z" name="setTestName" test-instance-name="Sheet Name:AELandingPageTestCase_TestCase Name:validate main page Links AE logo" finished-at="2020-06-21T22:59:32Z" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Sheet Name:AELandingPageTestCase_TestCase Name:validate main page Links AE logo status=SUCCESS method=AEMainTest.runMainTest()[pri:0, instance:sample.tests.kickoff.ae.AEMainTest@239105a8] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setTestName -->
+        <test-method signature="runMainTest()[pri:0, instance:sample.tests.kickoff.ae.AEMainTest@239105a8]" started-at="2020-06-21T22:59:32Z" name="2_validate main page Links AE logo" test-instance-name="Sheet Name:AELandingPageTestCase_TestCase Name:validate main page Links AE logo" finished-at="2020-06-21T23:00:18Z" duration-ms="45378" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- 2_validate main page Links AE logo -->
+        <test-method signature="runMainTest()[pri:0, instance:sample.tests.kickoff.ae.AEMainTest@72ade7e3]" started-at="2020-06-21T22:59:32Z" name="1_validate main page Title" test-instance-name="Sheet Name:AELandingPageTestCase_TestCase Name:validate main page Title" finished-at="2020-06-21T23:00:12Z" duration-ms="39812" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- 1_validate main page Title -->
+        <test-method is-config="true" signature="setResultTestName(org.testng.ITestResult)[pri:0, instance:sample.tests.kickoff.ae.AEMainTest@23202fce]" started-at="2020-06-21T23:00:12Z" name="setResultTestName" test-instance-name="Sheet Name:AELandingPageTestCase_TestCase Name:validate main page Title" finished-at="2020-06-21T23:00:12Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Sheet Name:AELandingPageTestCase_TestCase Name:validate main page Title status=SUCCESS method=AEMainTest.runMainTest()[pri:0, instance:sample.tests.kickoff.ae.AEMainTest@72ade7e3] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setResultTestName -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:sample.tests.kickoff.ae.AEMainTest@23202fce]" started-at="2020-06-21T23:00:12Z" name="setup" test-instance-name="Sheet Name:AELandingPageTestCase_TestCase Name:validate main page Links_Aerie logo" finished-at="2020-06-21T23:00:12Z" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="setTestName(org.testng.ITestResult)[pri:0, instance:sample.tests.kickoff.ae.AEMainTest@23202fce]" started-at="2020-06-21T23:00:12Z" name="setTestName" test-instance-name="Sheet Name:AELandingPageTestCase_TestCase Name:validate main page Links_Aerie logo" finished-at="2020-06-21T23:00:12Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Sheet Name:AELandingPageTestCase_TestCase Name:validate main page Links_Aerie logo status=SUCCESS method=AEMainTest.runMainTest()[pri:0, instance:sample.tests.kickoff.ae.AEMainTest@3fce8fd9] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setTestName -->
+        <test-method signature="runMainTest()[pri:0, instance:sample.tests.kickoff.ae.AEMainTest@3fce8fd9]" started-at="2020-06-21T23:00:12Z" name="3_validate main page Links_Aerie logo" test-instance-name="Sheet Name:AELandingPageTestCase_TestCase Name:validate main page Links_Aerie logo" finished-at="2020-06-21T23:00:47Z" duration-ms="34927" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- 3_validate main page Links_Aerie logo -->
+        <test-method is-config="true" signature="setResultTestName(org.testng.ITestResult)[pri:0, instance:sample.tests.kickoff.ae.AEMainTest@23202fce]" started-at="2020-06-21T23:00:18Z" name="setResultTestName" test-instance-name="Sheet Name:AELandingPageTestCase_TestCase Name:validate main page Links AE logo" finished-at="2020-06-21T23:00:18Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Sheet Name:AELandingPageTestCase_TestCase Name:validate main page Links AE logo status=SUCCESS method=AEMainTest.runMainTest()[pri:0, instance:sample.tests.kickoff.ae.AEMainTest@239105a8] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setResultTestName -->
+        <test-method is-config="true" signature="setTestName(org.testng.ITestResult)[pri:0, instance:sample.tests.kickoff.ae.AEMainTest@23202fce]" started-at="2020-06-21T23:00:18Z" name="setTestName" test-instance-name="Sheet Name:AELandingPageTestCase_TestCase Name:validate main page Links_checkout" finished-at="2020-06-21T23:00:18Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Sheet Name:AELandingPageTestCase_TestCase Name:validate main page Links_checkout status=SUCCESS method=AEMainTest.runMainTest()[pri:0, instance:sample.tests.kickoff.ae.AEMainTest@609bcfb6] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setTestName -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:sample.tests.kickoff.ae.AEMainTest@23202fce]" started-at="2020-06-21T23:00:18Z" name="setup" test-instance-name="Sheet Name:AELandingPageTestCase_TestCase Name:validate main page Links_checkout" finished-at="2020-06-21T23:00:18Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="runMainTest()[pri:0, instance:sample.tests.kickoff.ae.AEMainTest@609bcfb6]" started-at="2020-06-21T23:00:18Z" name="4_validate main page Links_checkout" test-instance-name="Sheet Name:AELandingPageTestCase_TestCase Name:validate main page Links_checkout" finished-at="2020-06-21T23:00:47Z" duration-ms="29191" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- 4_validate main page Links_checkout -->
+        <test-method is-config="true" signature="setResultTestName(org.testng.ITestResult)[pri:0, instance:sample.tests.kickoff.ae.AEMainTest@23202fce]" started-at="2020-06-21T23:00:47Z" name="setResultTestName" test-instance-name="Sheet Name:AELandingPageTestCase_TestCase Name:validate main page Links_checkout" finished-at="2020-06-21T23:00:47Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Sheet Name:AELandingPageTestCase_TestCase Name:validate main page Links_checkout status=SUCCESS method=AEMainTest.runMainTest()[pri:0, instance:sample.tests.kickoff.ae.AEMainTest@609bcfb6] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setResultTestName -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:sample.tests.kickoff.ae.AEMainTest@23202fce]" started-at="2020-06-21T23:00:47Z" name="setup" test-instance-name="Sheet Name:AELandingPageTestCase_TestCase Name:validate main page Links_women" finished-at="2020-06-21T23:00:47Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="runMainTest()[pri:0, instance:sample.tests.kickoff.ae.AEMainTest@7d94beb9]" started-at="2020-06-21T23:00:47Z" name="5_validate main page Links_women" test-instance-name="Sheet Name:AELandingPageTestCase_TestCase Name:validate main page Links_women" finished-at="2020-06-21T23:01:27Z" duration-ms="40276" status="FAIL">
+          <reporter-output>
+            <line>
+              <![CDATA[Exception: null]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- 5_validate main page Links_women -->
+        <test-method is-config="true" signature="setTestName(org.testng.ITestResult)[pri:0, instance:sample.tests.kickoff.ae.AEMainTest@23202fce]" started-at="2020-06-21T23:00:47Z" name="setTestName" test-instance-name="Sheet Name:AELandingPageTestCase_TestCase Name:validate main page Links_women" finished-at="2020-06-21T23:00:47Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Sheet Name:AELandingPageTestCase_TestCase Name:validate main page Links_women status=FAILURE method=AEMainTest.runMainTest()[pri:0, instance:sample.tests.kickoff.ae.AEMainTest@7d94beb9] output=Exception: null]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setTestName -->
+        <test-method is-config="true" signature="setResultTestName(org.testng.ITestResult)[pri:0, instance:sample.tests.kickoff.ae.AEMainTest@23202fce]" started-at="2020-06-21T23:00:47Z" name="setResultTestName" test-instance-name="Sheet Name:AELandingPageTestCase_TestCase Name:validate main page Links_Aerie logo" finished-at="2020-06-21T23:00:47Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Sheet Name:AELandingPageTestCase_TestCase Name:validate main page Links_Aerie logo status=SUCCESS method=AEMainTest.runMainTest()[pri:0, instance:sample.tests.kickoff.ae.AEMainTest@3fce8fd9] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setResultTestName -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:sample.tests.kickoff.ae.AEMainTest@23202fce]" started-at="2020-06-21T23:00:47Z" name="setup" test-instance-name="Sheet Name:AELandingPageTestCase_TestCase Name:validate main page Links_men" finished-at="2020-06-21T23:00:47Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="setTestName(org.testng.ITestResult)[pri:0, instance:sample.tests.kickoff.ae.AEMainTest@23202fce]" started-at="2020-06-21T23:00:47Z" name="setTestName" test-instance-name="Sheet Name:AELandingPageTestCase_TestCase Name:validate main page Links_men" finished-at="2020-06-21T23:00:47Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Sheet Name:AELandingPageTestCase_TestCase Name:validate main page Links_men status=SUCCESS method=AEMainTest.runMainTest()[pri:0, instance:sample.tests.kickoff.ae.AEMainTest@560348e6] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setTestName -->
+        <test-method signature="runMainTest()[pri:0, instance:sample.tests.kickoff.ae.AEMainTest@560348e6]" started-at="2020-06-21T23:00:47Z" name="6_validate main page Links_men" test-instance-name="Sheet Name:AELandingPageTestCase_TestCase Name:validate main page Links_men" finished-at="2020-06-21T23:01:26Z" duration-ms="38779" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- 6_validate main page Links_men -->
+        <test-method is-config="true" signature="setResultTestName(org.testng.ITestResult)[pri:0, instance:sample.tests.kickoff.ae.AEMainTest@23202fce]" started-at="2020-06-21T23:01:26Z" name="setResultTestName" test-instance-name="Sheet Name:AELandingPageTestCase_TestCase Name:validate main page Links_men" finished-at="2020-06-21T23:01:26Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Sheet Name:AELandingPageTestCase_TestCase Name:validate main page Links_men status=SUCCESS method=AEMainTest.runMainTest()[pri:0, instance:sample.tests.kickoff.ae.AEMainTest@560348e6] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setResultTestName -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:sample.tests.kickoff.ae.AEMainTest@23202fce]" started-at="2020-06-21T23:01:26Z" name="setup" test-instance-name="Sheet Name:AELandingPageTestCase_TestCase Name:validate main page Links_tailgate" finished-at="2020-06-21T23:01:26Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="setTestName(org.testng.ITestResult)[pri:0, instance:sample.tests.kickoff.ae.AEMainTest@23202fce]" started-at="2020-06-21T23:01:26Z" name="setTestName" test-instance-name="Sheet Name:AELandingPageTestCase_TestCase Name:validate main page Links_tailgate" finished-at="2020-06-21T23:01:26Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Sheet Name:AELandingPageTestCase_TestCase Name:validate main page Links_tailgate status=SUCCESS method=AEMainTest.runMainTest()[pri:0, instance:sample.tests.kickoff.ae.AEMainTest@1df8b5b8] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setTestName -->
+        <test-method signature="runMainTest()[pri:0, instance:sample.tests.kickoff.ae.AEMainTest@1df8b5b8]" started-at="2020-06-21T23:01:26Z" name="7_validate main page Links_tailgate" test-instance-name="Sheet Name:AELandingPageTestCase_TestCase Name:validate main page Links_tailgate" finished-at="2020-06-21T23:01:57Z" duration-ms="30770" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- 7_validate main page Links_tailgate -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:sample.tests.kickoff.ae.AEMainTest@23202fce]" started-at="2020-06-21T23:01:27Z" name="setup" test-instance-name="Sheet Name:AELandingPageTestCase_TestCase Name:validate main page Links_clearance" finished-at="2020-06-21T23:01:27Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="setResultTestName(org.testng.ITestResult)[pri:0, instance:sample.tests.kickoff.ae.AEMainTest@23202fce]" started-at="2020-06-21T23:01:27Z" name="setResultTestName" test-instance-name="Sheet Name:AELandingPageTestCase_TestCase Name:validate main page Links_women" finished-at="2020-06-21T23:01:27Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Sheet Name:AELandingPageTestCase_TestCase Name:validate main page Links_women status=FAILURE method=AEMainTest.runMainTest()[pri:0, instance:sample.tests.kickoff.ae.AEMainTest@7d94beb9] output=Exception: null]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setResultTestName -->
+        <test-method is-config="true" signature="setTestName(org.testng.ITestResult)[pri:0, instance:sample.tests.kickoff.ae.AEMainTest@23202fce]" started-at="2020-06-21T23:01:27Z" name="setTestName" test-instance-name="Sheet Name:AELandingPageTestCase_TestCase Name:validate main page Links_clearance" finished-at="2020-06-21T23:01:27Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Sheet Name:AELandingPageTestCase_TestCase Name:validate main page Links_clearance status=SUCCESS method=AEMainTest.runMainTest()[pri:0, instance:sample.tests.kickoff.ae.AEMainTest@23202fce] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setTestName -->
+        <test-method signature="runMainTest()[pri:0, instance:sample.tests.kickoff.ae.AEMainTest@23202fce]" started-at="2020-06-21T23:01:27Z" name="8_validate main page Links_clearance" test-instance-name="Sheet Name:AELandingPageTestCase_TestCase Name:validate main page Links_clearance" finished-at="2020-06-21T23:01:58Z" duration-ms="30271" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- 8_validate main page Links_clearance -->
+        <test-method is-config="true" signature="setResultTestName(org.testng.ITestResult)[pri:0, instance:sample.tests.kickoff.ae.AEMainTest@23202fce]" started-at="2020-06-21T23:01:57Z" name="setResultTestName" test-instance-name="Sheet Name:AELandingPageTestCase_TestCase Name:validate main page Links_tailgate" finished-at="2020-06-21T23:01:57Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Sheet Name:AELandingPageTestCase_TestCase Name:validate main page Links_tailgate status=SUCCESS method=AEMainTest.runMainTest()[pri:0, instance:sample.tests.kickoff.ae.AEMainTest@1df8b5b8] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setResultTestName -->
+        <test-method is-config="true" signature="setResultTestName(org.testng.ITestResult)[pri:0, instance:sample.tests.kickoff.ae.AEMainTest@23202fce]" started-at="2020-06-21T23:01:58Z" name="setResultTestName" test-instance-name="Sheet Name:AELandingPageTestCase_TestCase Name:validate main page Links_clearance" finished-at="2020-06-21T23:01:58Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Sheet Name:AELandingPageTestCase_TestCase Name:validate main page Links_clearance status=SUCCESS method=AEMainTest.runMainTest()[pri:0, instance:sample.tests.kickoff.ae.AEMainTest@23202fce] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setResultTestName -->
+      </class> <!-- sample.tests.kickoff.ae.AEMainTest -->
+    </test> <!-- AeTest -->
+  </suite> <!-- Ae Suite -->
+</testng-results>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" parallel="instances" name="Failed suite [Ae Suite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="selenium.ui.framework.listeners.TestListener"/>
+    <listener class-name="selenium.ui.framework.utils.TestListSort"/>
+  </listeners>
+  <test thread-count="2" parallel="instances" name="AeTest(failed)">
+    <classes>
+      <class name="sample.tests.kickoff.ae.AEMainTest">
+        <methods>
+          <include name="setResultTestName"/>
+          <include name="setTestName"/>
+          <include name="setup"/>
+          <include name="runMainTest"/>
+        </methods>
+      </class> <!-- sample.tests.kickoff.ae.AEMainTest -->
+    </classes>
+  </test> <!-- AeTest(failed) -->
+</suite> <!-- Failed suite [Ae Suite] -->

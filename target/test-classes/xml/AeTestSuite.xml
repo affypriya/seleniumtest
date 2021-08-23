@@ -1,0 +1,16 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite thread-count="2" verbose="1" name="Ae Suite"
+	annotations="JDK" parallel="instances">
+	<listeners>
+		<listener
+			class-name="selenium.ui.framework.listeners.TestListener" />
+		<listener
+			class-name="selenium.ui.framework.utils.TestListSort" />
+	</listeners>
+	<test name="AeTest">
+		<classes>
+			<class name="sample.tests.kickoff.ae.AEMainTest" />
+		</classes>
+	</test>
+</suite>
